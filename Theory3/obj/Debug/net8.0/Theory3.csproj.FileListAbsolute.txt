@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\Week3\Theory3\bin\Debug\net8.0\Theory3.exe
+C:\Users\frede\source\repos\Week3\Theory3\bin\Debug\net8.0\Theory3.deps.json
+C:\Users\frede\source\repos\Week3\Theory3\bin\Debug\net8.0\Theory3.runtimeconfig.json
+C:\Users\frede\source\repos\Week3\Theory3\bin\Debug\net8.0\Theory3.dll
+C:\Users\frede\source\repos\Week3\Theory3\bin\Debug\net8.0\Theory3.pdb
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.AssemblyInfo.cs
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.dll
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\refint\Theory3.dll
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.pdb
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\Theory3.genruntimeconfig.cache
+C:\Users\frede\source\repos\Week3\Theory3\obj\Debug\net8.0\ref\Theory3.dll

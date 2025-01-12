@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frede\\source\\repos\\Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14B4B86-255A-4D06-B88A-B8FE46C798D3}|Assignment8\\Assignment8.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14B4B86-255A-4D06-B88A-B8FE46C798D3}|Assignment8\\Assignment8.csproj|solutionrelative:assignment8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1047802-C2A9-4AA7-841D-A0B6F4D28261}|Assignment7\\Assignment7.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1047802-C2A9-4AA7-841D-A0B6F4D28261}|Assignment7\\Assignment7.csproj|solutionrelative:assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C520937D-7D5B-461A-8B8E-FC2D34F42E3F}|Assignment6\\Assignment6.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C520937D-7D5B-461A-8B8E-FC2D34F42E3F}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435AC4DA-6BCF-49A7-B981-6CE6FEBAF522}|Assignment5\\Assignment5.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435AC4DA-6BCF-49A7-B981-6CE6FEBAF522}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FBE332-A6D9-47CB-935B-97B24F5A4932}|Assignment4\\Assignment4.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FBE332-A6D9-47CB-935B-97B24F5A4932}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FEC0CE-F01E-4547-8902-48A37479E503}|Assignment3\\Assignment3.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FEC0CE-F01E-4547-8902-48A37479E503}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF4938-E593-43B2-B996-7A472CAD12E7}|Assignment2\\Assignment2.csproj|c:\\users\\frede\\source\\repos\\week3\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF4938-E593-43B2-B996-7A472CAD12E7}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865ED47-321F-41A8-81AD-70B7F817A33A}|Theory3\\Theory3.csproj|c:\\users\\frede\\source\\repos\\week3\\theory3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865ED47-321F-41A8-81AD-70B7F817A33A}|Theory3\\Theory3.csproj|solutionrelative:theory3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment8\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment8\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment8\\Program.cs",
+              "RelativeToolTip": "Assignment8\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:04:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment7\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment7\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment7\\Program.cs",
+              "RelativeToolTip": "Assignment7\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:23:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment6\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment6\\Program.cs",
+              "RelativeToolTip": "Assignment6\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:15:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Assignment5\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:54:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment4\\Program.cs",
+              "RelativeToolTip": "Assignment4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:24:27.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:19:29.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:12:55.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\Week3\\Theory3\\Program.cs",
+              "RelativeDocumentMoniker": "Theory3\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\Week3\\Theory3\\Program.cs",
+              "RelativeToolTip": "Theory3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:12:03.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
